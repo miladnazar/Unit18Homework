@@ -19,13 +19,16 @@
    | Node4 P Key | 0x46a97e31687f7956A2f9D368726740B5F7b47009
 
 *Here is a screenshot of the puppeth configuration:*
+
 ![alt text](Screenshots/puppeth_configuration.png)
 
 
-**Here is the Guide on how to locate the Nodes Folder and how to run both Nodes:**
+## Guide on how to locate the Nodes Folder and how to run both Nodes:
+
 1. Go to your Terminal: Change Directory to the Geth-AllTool Folder on your Computer.
 
 **cd Downloads/geth-alltools-darwin-amd64-1.9.26-unstable-2e5d1417**
+
 
 2. Start running the nodes starting from node3 by running the following command on your Geth Folder:
 
@@ -33,9 +36,11 @@
 
 **wait until you see "looking for peers" after you run the above command**
 
+
 3. Open another tab on the same directory by using (Command + T) shortcut and start running node4 by typing the following command:
 
 **./geth --datadir node4 --port 30304 --bootnodes enode://c2f3276ac337c812286ec91a65d328eb6921f86083f9da612061d739faf62987c45c33b7997db4caddae0736bf54758e2804bc55587e0dfc67fb0b2546061750@127.0.0.1:30303 --mine --minerthreads 1**
+
 
 4. Send a Transaction using MyCrypto App
 
@@ -48,6 +53,7 @@
 | Currency:        | ETH
 | Chain ID:        | 200
 | URL:             | https://127.0.0.1:30303
+
 
 ## Screenshots
 
