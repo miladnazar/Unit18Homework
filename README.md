@@ -19,7 +19,7 @@
    | Node4 P Key | 0x46a97e31687f7956A2f9D368726740B5F7b47009
 
 *Here is a screenshot of the puppeth configuration:*
-![alt text](../Screenshots/puppeth_configuration.png)
+![alt text](Screenshots/puppeth_configuration.png)
 
 
 **Here is the Guide on how to locate the Nodes Folder and how to run both Nodes:**
@@ -55,13 +55,13 @@
 
 *Here is a screenshot of the transfer confirmation in between nodes*
 
-![alt text](../Screenshots/Confirmation_Page.png)
+![alt text](Screenshots/Confirmation_Page.png)
 
 **Successful Transaction Confirmation using Keystor to send coin from node3 to node4:**
 
 *Here is a screenshot*
 
-![alt text](../Screenshots/Overview.png)
+![alt text](Screenshots/Overview.png)
 
-![alt text](../Screenshots/State.png)
+![alt text](Screenshots/State.png)
 
